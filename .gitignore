@@ -1,0 +1,5 @@
+# skill 自测工作区(测试产物,不入库)
+web-creator-workspace/
+node_modules/
+*.log
+.env
